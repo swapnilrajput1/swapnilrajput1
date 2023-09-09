@@ -1,7 +1,7 @@
 # About 
 My name is Swapnil Rajput. Currently I am working as an Associate Manager in Principal Global Services, Limited, India in the Retirement process in US. I am passionate about Data Science, Artifical Intelligence and Machine Learning and I am always looking for new ways to learn and grow.
 
-I am proficient in Python, SQL programming languages and I have experience with MS Excel, Tableau I am also a strong problem solver, Analytical thinker and I am always willing to help others.
+I am proficient in Python, SQL programming languages and I have experience with MS Excel, Tableau. I am also a strong problem solver, Analytical thinker and I am always willing to help others.
 I am currently working on several projects and I am excited to see what the future holds.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
